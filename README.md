@@ -25,4 +25,4 @@ Exit code will be 0 if file is good.
 
 ## License
 
-Under [MIT](LICENSE)
+Under [MIT](LICENSE).
